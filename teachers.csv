@@ -1,0 +1,1013 @@
+instructor_id,Teacher,Department
+1,Michael P.  Coyne,Accounting
+2,Rebecca I.  Bloch,Accounting
+3,Paul   Caster,Accounting
+4,Jo Ann   Drusbosky,Accounting
+5,Arleen N.  Kardos,Accounting
+6,Scott M  Brenner,Accounting
+8,Bruce   Bradford,Accounting
+9,Milo W.  Peck,Accounting
+10,Stephen E.  Yost,Accounting
+10,Stephen E.  Yost,Management
+11,Ahmed M.  Ebrahim,Accounting
+12,Kathi M.  Mettler,Taxation
+12,Kathi M.  Mettler,Accounting
+14,Patricia M.  Poli,Accounting
+15,Joan L.  Lee,Accounting
+15,Joan L.  Lee,Applied Ethics
+16,Dawn W  Massey,Accounting
+17,Anna M.  Lawrence,Black Studies
+17,Anna M.  Lawrence,History
+17,Anna M.  Lawrence,"Women, Gender, and Sexuality Studies"
+17,Anna M.  Lawrence,American Studies
+18,Cecelia F.  Bucki,History
+18,Cecelia F.  Bucki,American Studies
+19,Sally E.  O'Driscoll,English
+20,Martha S.  LoMonaco,Theatre
+20,Martha S.  LoMonaco,American Studies
+20,Martha S.  LoMonaco,English
+20,Martha S.  LoMonaco,Honors
+21,Scott M.  Lacy,Anthropology
+22,David   Crawford,Anthropology
+22,David   Crawford,International Studies
+23,Joseph A.  Wilson,Anthropology
+23,Joseph A.  Wilson,Sociology
+24,Gary P.  Aronsen,Anthropology
+25,Robert A.  Liftig,Applied Ethics
+26,Robert B.  Day,Applied Ethics
+26,Robert B.  Day,Management
+27,Barry   Butler,Applied Ethics
+29,Curtis R.  Naser,Applied Ethics
+29,Curtis R.  Naser,Philosophy
+30,David P.  Schmidt,Applied Ethics
+30,David P.  Schmidt,Communication
+30,David P.  Schmidt,Management
+30,David P.  Schmidt,Business
+31,Scott W.  Ventrella,Applied Ethics
+32,Jeffrey L.  Yoder,Applied Ethics
+33,Francis T.  Hannafey,Applied Ethics
+33,Francis T.  Hannafey,Religious Studies
+34,Lisa M.  Sticca-Conrod,Applied Ethics
+36,Katherine A.  Schwab,Art History
+37,Philip I.  Eliasoph,Art History
+38,Marice E.  Rose,Art History
+38,Marice E.  Rose,Honors
+38,Marice E.  Rose,Studio Art
+38,Marice E.  Rose,"Film, Television, and Media Arts"
+38,Marice E.  Rose,Music
+40,Lauren Elise  Cesiro,Art History
+42,Ive E.  Covaci,Art History
+43,TBA,Biology
+43,TBA,Computer Science
+43,TBA,Nursing
+43,TBA,Business
+45,Indrani   Dutta,Biology
+47,Olivia T.  Harriott,Biology
+48,Jacqueline A  Vernarelli,Biology
+49,Thomas B.  Cunningham,Biology
+50,Brian D.  Ortman,Biology
+51,Christine   Earls,Biology
+51,Christine   Earls,Nursing
+52,Anthony J.  DeCristofaro,Biology
+54,Eugenia T.  Zavras,Biology
+55,Anita G.  Fernandez,Biology
+56,Phyllis Cellini  Braun,Biology
+57,Lenka   Biardi,Biology
+58,Catherine J.  Andersen,Biology
+60,Geoffrey A.  Church,Biology
+61,James E.  Biardi,Biology
+61,James E.  Biardi,Chemistry
+61,James E.  Biardi,Environmental Studies
+62,Jennifer L.  Klug,Biology
+63,Tod   Osier,Biology
+64,Brian G.  Walker,Biology
+64,Brian G.  Walker,Health Studies
+65,Aaron R.  Van Dyke,Biology
+65,Aaron R.  Van Dyke,Chemistry
+67,Diane J.  Brousseau,Biology
+68,Soyong   Byun,Biology
+69,Jennifer M. F.  Hillgen-Santa,Business
+70,Sharlene A.  McEvoy,Business
+70,Sharlene A.  McEvoy,Management
+71,Debra M.  Strauss,Business
+71,Debra M.  Strauss,Management
+72,Raymond T.  Lamanna,Business
+73,Paul A.  Rivera,Business
+74,Michael D.  Strouch,Business
+75,Joseph J.  Matthews,Economics
+75,Joseph J.  Matthews,Business
+76,Edmond J.  O'Connell,Chemistry
+78,Eileen   Reilly-Wiedow,Chemistry
+80,Lawrence Kraig  Steffen,Chemistry
+81,Dorothy   Sobczynski,Chemistry
+83,Robert G.  Fischer,Chemistry
+84,John R.  Miecznikowski,Chemistry
+85,Gary H.  Weddle,Chemistry
+86,Jon J.  Harper,Chemistry
+87,John E.  Feeney,Irish Studies
+88,Sharon A.  Fischer,Chemistry
+89,Omari   Ansong,Chemistry
+90,Matthew A.  Kubasik,Chemistry
+91,Joan   Lloyd,Chemistry
+92,Peter J.  Schirmann,Chemistry
+93,Amanda S.  Harper-Leatherman,Chemistry
+93,Amanda S.  Harper-Leatherman,Honors
+94,Jiwei   Xiao,Asian Studies
+94,Jiwei   Xiao,Chinese
+95,Vincent J.  Rosivach,English
+95,Vincent J.  Rosivach,Greek
+95,Vincent J.  Rosivach,Latin
+96,Giovanni R.  Ruffini,Classical Studies
+96,Giovanni R.  Ruffini,Honors
+96,Giovanni R.  Ruffini,History
+97,Niall P.  Brennan,Communication
+97,Niall P.  Brennan,General Studies
+98,Mary Sallyanne   Ryan,Communication
+100,Julie Scher  Smith,Communication
+101,Thomas   Larkin,Communication
+105,Audra Kate  Nuru,Communication
+105,Audra Kate  Nuru,Public Administration
+109,Margaret A.  Wills,Communication
+109,Margaret A.  Wills,General Studies
+110,Michael P.  Pagano,Communication
+110,Michael P.  Pagano,Health Studies
+111,Qin   Zhang,Communication
+111,Qin   Zhang,General Studies
+112,James P.  Cavallo,Electrical Engineering
+112,James P.  Cavallo,Humanities
+112,James P.  Cavallo,Computer Engineering
+112,James P.  Cavallo,Electrical and Computer Engineering
+112,James P.  Cavallo,Engineering
+114,Joan Wyzkoski  Weiss,Mathematics
+115,JoAnn M.  O'Connell,Counseling
+116,Tara B.  Malone,Counseling
+117,Virginia A.  Kelly,Counseling
+117,Virginia A.  Kelly,Family Therapy
+118,Diana   Hulse,Counseling
+120,Richard W.  Madwid,Counseling
+122,Patricia A.  Morrissey,Counseling
+123,Holly D.  Mensching,Counseling
+123,Holly D.  Mensching,Family Therapy
+125,Tracey   Robert,Counseling
+126,Pamela A.  Anderson,Counseling
+127,Mark S.  Leclair,Economics
+127,Mark S.  Leclair,Public Administration
+128,Philip J.  Lane,Economics
+128,Philip J.  Lane,Finance
+129,Anna-Maria   Aksan,Economics
+129,Anna-Maria   Aksan,Public Administration
+129,Anna-Maria   Aksan,Nursing
+129,Anna-Maria   Aksan,Honors
+130,Thomas Joseph  Murray,Economics
+130,Thomas Joseph  Murray,Public Administration
+131,Randall S.  Hiller,Economics
+132,William F.  Vasquez Mazariegos,Economics
+132,William F.  Vasquez Mazariegos,Public Administration
+133,Todd P.  Martin,Economics
+134,Gerald A.  McCloghry,Economics
+136,Kathryn A.  Nantz,Economics
+139,Patricia E.  Calderwood,Education
+140,Barbara Lynn  Welles,Education
+143,Ryan P.  Colwell,Education
+144,Emily R.  Smith,Education
+145,Bryan R.  Crandall,Education
+145,Bryan R.  Crandall,English
+145,Bryan R.  Crandall,English: Writing
+149,Bernadine   Krawczyk,Education
+150,Theresa   Fischer,Education
+151,Deborah L.  Edelman,Special Education
+151,Deborah L.  Edelman,Education
+151,Deborah L.  Edelman,Psychology
+152,Bridget M.  Fine,Biology
+152,Bridget M.  Fine,Education
+153,Sarah F  Dzilinski,Education
+155,Jay L.  Rozgonyi,Educational Technology
+157,William Paul   Maloney,Psychology
+159,Benjamin   Fine,Mathematics
+160,Eugenio   Lopes,Electrical and Computer Engineering
+160,Eugenio   Lopes,Electrical Engineering
+161,Jeffrey N.  Denenberg,Electrical and Computer Engineering
+161,Jeffrey N.  Denenberg,Electrical Engineering
+161,Jeffrey N.  Denenberg,Computer Engineering
+161,Jeffrey N.  Denenberg,Engineering
+161,Jeffrey N.  Denenberg,Mechanical Engineering
+161,Jeffrey N.  Denenberg,Bioengineering
+161,Jeffrey N.  Denenberg,Software Engineering
+162,Douglas A.  Lyon,Bioengineering
+162,Douglas A.  Lyon,Computer Engineering
+162,Douglas A.  Lyon,Electrical and Computer Engineering
+162,Douglas A.  Lyon,Electrical Engineering
+163,Ryan A.  Munden,Engineering
+163,Ryan A.  Munden,Mechanical Engineering
+166,Uma   Balaji,Electrical Engineering
+166,Uma   Balaji,Electrical and Computer Engineering
+167,Shahrokh   Etemad,Mechanical Engineering
+167,Shahrokh   Etemad,Engineering
+173,Gale J.  Bellas,English
+174,Sonya R.  Huber,English: Writing
+175,Christopher Grant  Madden,English
+176,Lindsay K.  Ferrara,English
+178,Elizabeth A.  Hilts,English
+178,Elizabeth A.  Hilts,English: Writing
+179,Betsy A.  Bowen,English
+179,Betsy A.  Bowen,English: Writing
+180,Shannon E.  Kelley,English
+180,Shannon E.  Kelley,English: Writing
+180,Shannon E.  Kelley,Honors
+183,Gita   Rajan,English
+185,Laura Marie  Marciano,English
+185,Laura Marie  Marciano,English: Writing
+186,Rebecca Louise  Dimyan,English
+186,Rebecca Louise  Dimyan,English: Writing
+187,Michael Anthony  DeStefano,English
+188,John E.  Burlinson,English
+192,Emily J.  Orlando,English
+192,Emily J.  Orlando,English: Writing
+192,Emily J.  Orlando,"Women, Gender, and Sexuality Studies"
+192,Emily J.  Orlando,Honors
+193,Colin A.  Hosten,English
+193,Colin A.  Hosten,English: Writing
+195,Steven A.  Otfinoski,English
+196,Jill L.  Bodach,English
+197,Judson   Scruton,English
+198,Michael P.  Sweeney,English
+198,Michael P.  Sweeney,English: Writing
+200,Brian W.  Hoover,English
+201,Frank   Moliterno,English
+202,Eleanor McVearry  Whitaker,English
+203,Elizabeth H.  Boquet,English
+203,Elizabeth H.  Boquet,English: Writing
+204,Kristin A.  Rose,English
+206,Johanna   Garvey,American Studies
+206,Johanna   Garvey,English
+206,Johanna   Garvey,General Studies
+206,Johanna   Garvey,Black Studies
+207,Elizabeth A.  Petrino,English
+208,Carol Ann   Davis,English: Writing
+209,Lisa M.  Breunig,English
+210,Robert   Epstein,English
+211,Lenka   Pichlikova-Burke,English
+211,Lenka   Pichlikova-Burke,History
+212,Gail   Ostrow,English
+213,Peter L.  Bayers,American Studies
+213,Peter L.  Bayers,English
+213,Peter L.  Bayers,Honors
+214,Nels C.  Pearson,English
+215,Marion M.  White,English
+216,Jacqueline   Rinaldi,English
+217,Michael C.  White,English
+217,Michael C.  White,English: Writing
+218,Lei   Xie,English: Writing
+218,Lei   Xie,English
+221,Thomas Edward  Sobocinski,English: Writing
+221,Thomas Edward  Sobocinski,Public Administration
+223,David L.  Downie,Environmental Studies
+223,David L.  Downie,Politics
+229,Michael Andrew  Cooney,"Film, Television, and Media Arts"
+229,Michael Andrew  Cooney,Music
+231,Walter F.  Hlawitschka,Finance
+232,James B.  Jenkins,Finance
+233,Michael B  McDonald,Finance
+234,Laurie G.  Richardson,Finance
+235,Robert   Harrity,Finance
+236,Rosalind F.  Looby,Finance
+237,Ying   Zhang,Finance
+238,Robert James  Parisi,Finance
+239,Nazli S.  Alan,Finance
+240,Katsiaryna Salavei  Bardos,Finance
+242,Gregory D.  Koutmos,Finance
+243,Thomas E.  Conine,Finance
+247,Zoe   Erotopoulos,French
+248,Marie-Dominique   Boyce,French
+249,Joel D.  Goldfield,French
+249,Joel D.  Goldfield,German
+249,Joel D.  Goldfield,Italian
+251,Rose P.  Rodrigues,Sociology
+251,Rose P.  Rodrigues,General Studies
+251,Rose P.  Rodrigues,American Studies
+252,Mark S.  Ligas,Marketing
+253,Eileen   Wilkinson,German
+255,Nicholas K.  Rutter,History
+256,David W.  McFadden,History
+256,David W.  McFadden,"Russian, Eastern European, and Central Asian Studies"
+257,Jennifer A.  Adair,History
+258,William M.  Abbott,History
+258,William M.  Abbott,Honors
+258,William M.  Abbott,General Studies
+259,Silvia   Marsans-Sakly,History
+260,Gavriel D.  Rosenfeld,History
+261,Louise Y.  Palmer,American Studies
+261,Louise Y.  Palmer,History
+264,Ralph M.  Coury,History
+267,Elizabeth   Hohl,American Studies
+267,Elizabeth   Hohl,History
+267,Elizabeth   Hohl,Honors
+267,Elizabeth   Hohl,Black Studies
+269,Kristen N  Keegan,History
+270,Matthew P.  Coleman,Mathematics
+271,Laura   Nash,"Film, Television, and Media Arts"
+271,Laura   Nash,Honors
+271,Laura   Nash,Music
+272,John T.  Slotemaker,Religious Studies
+272,John T.  Slotemaker,Honors
+273,Yasin   Ozcelik,Information Systems
+274,Vishnu V.  Vinekar,Information Systems
+275,Christopher L.  Huntley,Information Systems
+275,Christopher L.  Huntley,Operations Management
+278,Thomas F.  McCabe,Information Systems
+279,Robert A.  Hardy,Interior Design
+280,Jane L.  Swergold,Interior Design
+281,Hollis A.  Sutherland,Interior Design
+284,Janie L.  Leatherman,Humanitarian Action
+284,Janie L.  Leatherman,International Studies
+284,Janie L.  Leatherman,Politics
+285,Lucrecia   Garcia Iommi,Politics
+285,Lucrecia   Garcia Iommi,International Studies
+287,Terry-Ann   Jones,International Studies
+287,Terry-Ann   Jones,Sociology
+288,Sara E.  Diaz,Italian
+288,Sara E.  Diaz,Honors
+289,Yael   Eliasoph,Italian
+290,Mary Ann M.  Carolan,English
+290,Mary Ann M.  Carolan,Honors
+290,Mary Ann M.  Carolan,Italian
+290,Mary Ann M.  Carolan,"Film, Television, and Media Arts"
+293,Kazuko Suda  Avery,Japanese
+294,Richard F.  Cerrone,Management
+295,J Michael   Cavanaugh,Management
+297,Paul P.  Daulerio,Management
+298,Lisa   Stafford,Management
+299,Lisa A.  Mainiero,Management
+299,Lisa A.  Mainiero,Public Administration
+300,Mousumi   Bhattacharya,Management
+302,Catherine C.  Giapponi,Management
+304,Carl A.  Scheraga,Honors
+304,Carl A.  Scheraga,Management
+307,John E.  Neal,Marketing
+308,Mousumi   Bose Godbole,Marketing
+309,Iman   Naderi,Marketing
+310,Arjun   Chaudhuri,Marketing
+311,Gerald O.  Cavallo,Marketing
+313,Camelia   Micu,Marketing
+314,Philip   Herr,Marketing
+314,Philip   Herr,Communication
+315,Rona   Preli,Family Therapy
+316,Sooyeon   Lee-Garland,Family Therapy
+318,Nicole B.  O'Brien,Family Therapy
+319,Erica E.  Hartwell,Family Therapy
+319,Erica E.  Hartwell,Counseling
+320,Christine B.  Walker,Family Therapy
+321,Maryann Hayes  LaBella,Family Therapy
+322,Ingeborg   Haug,Family Therapy
+323,Patricia Rogers  Cunningham,Mathematics
+324,Scott   Kaminski,Mathematics
+327,Mary V.  Grant,Mathematics
+330,Tina M  Romansky,Electrical Engineering
+333,Daniel J.  Ryan,Mathematics
+334,Mark F.  Demers,Mathematics
+335,Christopher   Staecker,Mathematics
+336,Rosemary Milewski  Danaher,Mathematics
+341,Peter G  Shanazu,Mathematics
+342,Edward T.  Giegengack,Mathematics
+343,Shirley A.  Wakin,Mathematics
+344,Laura   McSweeney,Mathematics
+345,Irene T.  Mulvey,Mathematics
+345,Irene T.  Mulvey,General Studies
+346,Shawn T.  Rafalski,Mathematics
+347,Riaz A.  Lalani,Mathematics
+349,Joseph D.  Cron,Mathematics
+350,Stephen F.  Sawin,Mathematics
+351,Catherine   Manning,Mathematics
+352,Janet   Striuli,Mathematics
+353,Alan   Anderson,Mathematics
+354,Michael P.  Zabinski,Engineering
+354,Michael P.  Zabinski,Mechanical Engineering
+356,Sriharsha   Srinivas Sundarram,Mechanical Engineering
+357,William H.  Dornfeld,Mechanical Engineering
+358,Ruvinda V.  Gunawardana,Mechanical Engineering
+359,Andrew   Judge,Mechanical Engineering
+359,Andrew   Judge,Engineering
+361,Clement   Anekwe,Mechanical Engineering
+363,Kosovka   Cupic,Mechanical Engineering
+364,Brian Q.  Torff,Music
+364,Brian Q.  Torff,American Studies
+365,John   Fumasoli,Music
+367,Alan C.  Murchie,Music
+368,Michael Anthony  Ciavaglia,Music
+371,Jonathan G.  Grauer,Music
+372,Eileen R.  O'Shea,Nursing
+373,Jessica   Planas,Nursing
+374,Mary M  Murphy,Nursing
+375,Carole A.  Pomarico,Nursing
+376,Kathleen D.  Lovanio,Nursing
+377,Susan N.  Bartos,Nursing
+378,Diane   Avery,Nursing
+379,Kelly Ann  Sullivan,Nursing
+380,Katherine Marie  Saracino,Nursing
+381,Sheila S.  Iacono,Nursing
+382,Suzanne T.  Chaplik,Nursing
+383,Laura A.  Conklin,Nursing
+385,Danielle E.  Hall,Nursing
+387,Karen H.  Burrows,Nursing
+389,Rose   Iannino-Renz,Nursing
+390,Audrey M.  Beauvais,Nursing
+391,Kathleen A.  Wheeler,Nursing
+396,Gloria J.  Fazio,Nursing
+398,Martha Ann  Boulton,Nursing
+399,Diana R.  Mager,Nursing
+400,Mary Anne   Caserta,Nursing
+401,Geraldine M.  Chalykoff,Nursing
+402,Dolores D.  Kratzer,Nursing
+405,Bree A.  Grealis,Nursing
+406,Cathleen D.  Walker,Nursing
+409,Linda N.  Roney,Nursing
+411,Maura   Byrnes-Casey,Nursing
+415,Michele Marie  Lecardo,Nursing
+416,Suzanne T.  Turner,Nursing
+417,Theresa Tavella  Quell,Nursing
+418,Lydia H.  Greiner,Nursing
+419,Sally O.  Gerard,Nursing
+420,Nancy A.  Moriber,Nursing
+420,Nancy A.  Moriber,Nursing: Anesthesia
+421,Carole A.  Shea,Nursing
+422,Cynthia A.  Bautista,Nursing
+423,Harvey   Hoffman,Management of Technology
+423,Harvey   Hoffman,Nursing
+423,Harvey   Hoffman,Electrical and Computer Engineering
+425,Jaclyn Elizabeth  Conelius,Nursing
+426,Joyce Muriel  Shea,Nursing
+427,Meredith Wallace  Kazer,Nursing
+429,John J.  Orazietti,Nursing: Anesthesia
+430,Xin Xin   He,Information Systems
+430,Xin Xin   He,Operations Management
+430,Xin Xin   He,Quantitative Analysis
+431,Patrick S.  Lee,Information Systems
+431,Patrick S.  Lee,Operations Management
+434,Sara   Brill,Philosophy
+435,Dennis K.  Keenan,Philosophy
+436,Ryan T.  Drake,Philosophy
+437,Steven Mitchell  Bayne,Philosophy
+438,Maggie A.  Labinski,Philosophy
+438,Maggie A.  Labinski,Honors
+440,Toby J.  Svoboda,Applied Ethics
+440,Toby J.  Svoboda,Philosophy
+440,Toby J.  Svoboda,American Studies
+441,Greg K.  Lew,Philosophy
+442,Phillip   Stambovsky,Philosophy
+443,Jason A.  Smith,Philosophy
+447,Juniper A.  Alcorn,Philosophy
+449,Jose L.  Fernandez,Philosophy
+450,Urbano L.  Rodrigues,Philosophy
+451,Kris F.  Sealey,Philosophy
+453,Daniel   Dlugos,Physics
+454,Angela   Biselli,Physics
+455,Jonathan J.  Stott,Physics
+456,Min   Xu,Physics
+457,Bidyut B.  Das,Physics
+458,David Roberts  Winn,Physics
+459,Joachim   Kuhn,Physics
+461,Byron M.  Norvell,Physics
+462,Gwendoline M.  Alphonso,American Studies
+462,Gwendoline M.  Alphonso,Politics
+464,Martha Jane   Patton,General Studies
+464,Martha Jane   Patton,Politics
+465,Kevin J.  Cassidy,Politics
+466,Jocelyn M.  Boryczka,Politics
+467,Edith B.  Cassidy,Politics
+469,Margaret M.  McClure,Psychology
+470,Michael C.  Amico,Psychology
+472,Michael Robert  Andreychik,Psychology
+473,Susan   Rakowitz,Psychology
+474,Dorothea D.  Braginsky,Psychology
+474,Dorothea D.  Braginsky,General Studies
+475,W Ronald   Salafia,Psychology
+476,Linda A.  Henkel,Psychology
+477,Harlan M.  Fichtenholtz,Psychology
+478,Judith   Primavera,Psychology
+480,Shannon M.  Harding,Psychology
+482,Paula   Gill Lopez,Psychology
+483,Evagelia Bilias  Lolis,Psychology
+483,Evagelia Bilias  Lolis,Special Education
+484,Ronald J.  Brone,Psychology
+485,Michael F.  Regan,Psychology
+489,Nancy A.  Dallavalle,Religious Studies
+492,Jeremy L.  Sabella,Religious Studies
+493,Lydia E. N.  Ciollo,Religious Studies
+493,Lydia E. N.  Ciollo,American Studies
+494,Martin T.  Nguyen,Religious Studies
+494,Martin T.  Nguyen,Black Studies
+496,John E.  Thiel,Religious Studies
+497,Erik J.  Ranstrom,Religious Studies
+498,Hugh M.  Humphrey,Religious Studies
+499,Jason M.H.  Gaines,Religious Studies
+500,James   Prosnit,Religious Studies
+501,Ellen M.  Umansky,Religious Studies
+501,Ellen M.  Umansky,American Studies
+503,Paul F.  Lakeland,Religious Studies
+505,Eleanor W.  Sauers,Religious Studies
+506,Elena T.  Syssoeva,Russian
+507,Rachelle J.  Brunn-Bevel,Sociology
+509,Eric   Mielants,Honors
+509,Eric   Mielants,Sociology
+510,Kim A.  Oliver,Sociology
+510,Kim A.  Oliver,Nursing
+511,Amalia I.  Rusu,Computer Science
+511,Amalia I.  Rusu,Software Engineering
+512,William F.  Guelakis,Software Engineering
+513,Philip   LaMastra,Computer Science
+514,Joseph   Corcoran,Software Engineering
+514,Joseph   Corcoran,Computer Science
+515,Bama   Govindaraja,Computer Science
+515,Bama   Govindaraja,Software Engineering
+517,Raymond   Angelo,Software Engineering
+519,Thomas   Galasso,Computer Science
+519,Thomas   Galasso,Software Engineering
+520,Mark D.  Ramsey,Software Engineering
+520,Mark D.  Ramsey,Electrical and Computer Engineering
+520,Mark D.  Ramsey,Management of Technology
+523,Sergio   Adrada Rafael,Spanish
+523,Sergio   Adrada Rafael,Psychology
+523,Sergio   Adrada Rafael,Latin American and Caribbean Studies
+524,Imara L.  Hernandez,Spanish
+527,M Covadonga   Arango-Martin,Spanish
+529,Ana C.  DeLuca,Spanish
+530,Alina   Zuniga,Spanish
+531,Gabriela   Pavon,Spanish
+534,Marilin   Sarria,Spanish
+535,Javier F.  Campos,Spanish
+536,Xiomara A.  Brea,Spanish
+538,Jerelyn M.  Johnson,Spanish
+541,Alyson Margaret  Martin,Special Education
+542,David A.  Zera,Special Education
+542,David A.  Zera,TESOL and Bilingual Education
+544,Barbara   Boller,Special Education
+544,Barbara   Boller,Psychology
+545,John   Mendelsohn,Studio Art
+546,Michael F  Donovan,Studio Art
+547,Kathryn J.  Yarrington,General Studies
+547,Kathryn J.  Yarrington,Studio Art
+548,Suzanne   Chamlin-Richer,Studio Art
+549,Jed Morgan  Post,Studio Art
+550,Cheryl Y.  Edwards,Studio Art
+552,Anne E  Campbell,English for Engineers
+552,Anne E  Campbell,TESOL and Bilingual Education
+552,Anne E  Campbell,Education
+553,Antonio   Simoes,TESOL and Bilingual Education
+556,Heather R.  Pellicone,TESOL and Bilingual Education
+557,David J.  Orticelli,Accounting
+557,David J.  Orticelli,Taxation
+558,Julie A.  Learson,Theatre
+559,Thomas R.  Schwans,Theatre
+561,Lynne K.  Porter,Theatre
+561,Lynne K.  Porter,Honors
+563,Bradley W.  Roth,Theatre
+566,Joseph R.  D'Agostin,Accounting
+567,David L.  Glinka,Accounting
+568,Sarah A.  Wessler,Anthropology
+569,Norma   Schmidt,Applied Ethics
+571,Danke   Li,Asian Studies
+571,Danke   Li,History
+571,Danke   Li,Honors
+572,Glenn R.  Sauer,Biology
+572,Glenn R.  Sauer,Chemistry
+573,Shannon P.  Gerry,Biology
+574,Shelley A.  Phelan,Biology
+576,Craig L.  Cerone,Business
+577,Jennifer   McGrath,Business
+580,Christopher R.  Bernhardt,Mathematics
+582,Cynthia C.  Vail,Counseling
+585,Robert W.  Schmidt,Counseling
+586,Dina   Franceschi,Economics
+586,Dina   Franceschi,International Studies
+586,Dina   Franceschi,Environmental Studies
+589,Jean E.  Gaumer,Education
+590,Pattie Richter  Hunt,Education
+594,Barbara W.  Friedman,Education
+601,John B.  McDermott,Finance
+602,Patricia E.  Behre,History
+602,Patricia E.  Behre,Humanities
+603,Alison E.  Kris,Nursing
+604,Haralampos Bobby  Moisiadis,Interior Design
+605,Richard S.  Killeaney,Interior Design
+610,Eugene P.  Doris,Management
+611,Jeffrey Fred  Roseman,Management
+612,Peter   Tarrant,Marketing
+613,Rajasree   Krishnankutty NairRajamma,Marketing
+614,Jay C.  Taylor,Family Therapy
+614,Jay C.  Taylor,Counseling
+615,Paul   Baginski,Mathematics
+617,George V.  Bauer,Mechanical Engineering
+618,Joseph P.  McFadden,Mechanical Engineering
+619,Kathryn   Phillips,Nursing
+621,David M.  Depukat,Nursing
+622,Janice Pinckney  Holmes,Nursing
+623,Jenna Alana  LoGiudice,Nursing
+623,Jenna Alana  LoGiudice,Nursing: Midwifery
+626,Elizabeth R.  Foden,Nursing
+634,Ralph V.  Tremaglio,Nursing
+638,Michael Walden  Creane,Psychology
+639,Thanos   Patelis,Psychology
+641,Kurt C.  Schlichting,Public Administration
+641,Kurt C.  Schlichting,Sociology
+642,Ronald M.  Davidson,Religious Studies
+643,Daniel B.  Cosacchi,Religious Studies
+644,David W.  Spollett,Religious Studies
+645,Christian   Cintron,Religious Studies
+648,Belinda A.  Quartey,Sociology
+652,Frederick W.  Mis,Software Engineering
+654,Michelle Leigh  Farrell,Spanish
+654,Michelle Leigh  Farrell,Latin American and Caribbean Studies
+654,Michelle Leigh  Farrell,Portuguese
+654,Michelle Leigh  Farrell,Honors
+655,Patricia V.  Morabito,Spanish
+656,Amy Danielle  Glazer,Special Education
+658,Hildegard H.  Szokol,Education
+658,Hildegard H.  Szokol,Special Education
+660,Kevin W.  Ford,Studio Art
+663,Jennifer Leonard  Sijmons,TESOL and Bilingual Education
+664,Ira P.  Klein,Taxation
+665,Milo William  Peck,Management
+665,Milo William  Peck,Taxation
+666,Jackob   Hofmann,Theatre
+668,Sarah Jennie  Bollinger,Accounting
+668,Sarah Jennie  Bollinger,Finance
+668,Sarah Jennie  Bollinger,Information Systems
+668,Sarah Jennie  Bollinger,Management
+668,Sarah Jennie  Bollinger,Marketing
+668,Sarah Jennie  Bollinger,Economics
+670,Yasir G.  Hamed,Arabic
+671,Dawn M.  Pilotti,Art History
+672,Debra S.  Sauer,Biology
+674,Sangamithra   Chintapalli,Chemistry
+675,Olivier J.  Nicaise,Chemistry
+678,Courtland C  Lee,Counseling
+679,Claudia Schwarz  Wolen,Education
+682,Mary Elizabeth  Nelson,Education
+682,Mary Elizabeth  Nelson,English
+684,Jie   Tao,Information Systems
+688,Steven Lewis  Belmont,Nursing: Anesthesia
+691,Jule J.  McCombes-Tolis,Reading and Language Development
+691,Jule J.  McCombes-Tolis,Special Education
+693,Linda A.  Chehy,TESOL and Bilingual Education
+696,Richard L.  Newman,Applied Ethics
+697,Alison C.  Poe,Art History
+698,Christine R.  Rodriguez,Biology
+701,Jillian E.  Smith-Carpenter,Biology
+701,Jillian E.  Smith-Carpenter,Chemistry
+702,Carlos E.  Pena,Business
+706,Mirco   Speretta,Software Engineering
+706,Mirco   Speretta,Computer Science
+707,Djedjiga   Belfadel,Computer Engineering
+707,Djedjiga   Belfadel,Electrical and Computer Engineering
+707,Djedjiga   Belfadel,Engineering
+707,Djedjiga   Belfadel,Mechanical Engineering
+708,Jamie C.  Macbeth,Software Engineering
+708,Jamie C.  Macbeth,Computer Science
+709,Hedieh   Shadmani,Economics
+710,Helena K.  Keefe,Economics
+711,Alyssa Goulian  Stack,Education
+712,Sarah-Jane   Henry,Education
+713,Kristen A.  Record,Education
+714,Patrick Michael  Egan,Educational Technology
+716,Pradeep   Govil,Electrical Engineering
+720,Marie B.  Cordell,English
+721,Mary C.  Linder,English
+722,Katherine V.  Veilleux,English
+723,David   Legere,English
+724,Curtis P.  Ferree,English
+725,Julie   Roneson,English
+725,Julie   Roneson,Education
+727,Patrick   Brooks,"Film, Television, and Media Arts"
+728,Valeria A.  Martinez,Finance
+729,Sunil   Purushotham,History
+733,Norman A.  Solomon,Management
+734,Rino   Nori,Management of Technology
+735,Kevin J.  Violette,Management of Technology
+736,Michael R.  Sciandra,Marketing
+739,Shabnam   Hashemiyeh,Mathematics
+744,Patricia A.  Lamb,Nursing
+749,Jeanne G.  Arsenault,Nursing
+750,Jainy   Vincent,Nursing
+754,Pamela E.  Corcoran,Philosophy
+755,Robert A.  Cordery,Physics
+757,Faith-Anne   Dohm,Psychology
+760,Marjorie   Gillis,Reading and Language Development
+764,Peggy L.  Delfino,Sociology
+765,Sandra   Gizzi,Spanish
+767,Maria A.  Arce,Spanish
+768,Laura R.  Funez,Spanish
+769,Kristina R  Lawson,TESOL and Bilingual Education
+770,Jan E. M.  Mason,Theatre
+772,Lisa Suzanne  Haylon,Accounting
+773,John L.  DeMelis,Accounting
+774,Victor E.  Hartman,Accounting
+775,Blaire   Hensley-Marschand,Anthropology
+776,Megan K.  Paqua,Art History
+781,Michael A.  Camporiale,Education
+781,Michael A.  Camporiale,TESOL and Bilingual Education
+782,Ryan Douglas  Farrington,Educational Technology
+783,Molly S.  Goldreich,Educational Technology
+784,Xiaojiang   Wu,Electrical and Computer Engineering
+784,Xiaojiang   Wu,Mechanical Engineering
+784,Xiaojiang   Wu,Engineering
+784,Xiaojiang   Wu,Software Engineering
+791,Patrick A.  Kennedy,Interior Design
+792,Anita G.  Deeg-Carlin,International Studies
+794,Michael J.  Cooper,Management of Technology
+796,Nicholas David  Kapoor,Mathematics
+800,Anka   Roberto,Nursing
+801,Samantha T.  Belmont,Nursing
+803,Natalie L.  Garcia,Nursing
+804,Eric   Guindon,Philosophy
+806,Damian M.  Elias,Psychology
+809,Dugan J.  McGinley,Religious Studies
+811,Antonio   Martinez-Meraz,Spanish
+812,Rachael Lynne  Gorchov,Studio Art
+814,Stephanie F.  Hall,Counseling
+815,Tomichan   Aprame,Counseling
+816,Joshua C.  Elliott,Education
+816,Joshua C.  Elliott,Educational Technology
+816,Joshua C.  Elliott,Reading and Language Development
+817,Kathleen A.  McNeiece,Educational Technology
+818,Mehdi   Safari Qariq,Mechanical Engineering
+818,Mehdi   Safari Qariq,Electrical and Computer Engineering
+819,Julie   Mughal,Humanitarian Action
+820,Susan B  Reynolds,Nursing
+821,Lindsey E.  Quinn,Nursing
+829,Vittoria   Fielosh,Special Education
+830,Jonathan Michael  Cop,Special Education
+831,Gregory Patrick  Burke,Accounting
+832,Alfred   Babo,Anthropology
+832,Alfred   Babo,International Studies
+833,Mary W.  Clark,Biology
+834,Sonal N.  Date,Biology
+835,Lori A.  John,Biology
+836,John F.  Karpinski,Biology
+837,Clinton J.  Moran,Biology
+838,Donald J.  Wolanin,Chemistry
+839,Flavio C.  Tinoco,Chemistry
+841,Adam E.  Rugg,Communication
+842,Stephaney S.  Morrison,Counseling
+842,Stephaney S.  Morrison,Family Therapy
+843,Alyssa A.  Peterson,Education
+844,James C.  McLaughlin,Education
+845,Jennifer D.  Leffers,Education
+846,Marcia   Arambulo Rodriguez,Engineering
+847,Kevin M.  Waugh,Engineering
+848,Adrian S.  Rusu-Sprincenatu,Computer Science
+848,Adrian S.  Rusu-Sprincenatu,Engineering
+848,Adrian S.  Rusu-Sprincenatu,Software Engineering
+850,Lizzie   Louis,English
+851,Timothy   Smith,English
+851,Timothy   Smith,English: Writing
+852,Sophfronia Scott  Gregory,English: Writing
+853,Matthew R.  Tullis,English
+853,Matthew R.  Tullis,English: Writing
+855,Meryl C.  O'Connor,"Film, Television, and Media Arts"
+856,Thomas Michael  DiPirro,"Film, Television, and Media Arts"
+857,Michael R.  Puleo,Finance
+858,John D.  Van Ness,Finance
+863,Rachel   Cantave,International Studies
+864,Federica   Christopher,Italian
+866,Jeffrey D.  Moretz,Management
+867,Joshua A.  Moritz,Marketing
+868,Andrew M.  Blum,Marketing
+869,Carrie Meredith  Rosenbloom,Family Therapy
+870,Joseph D.  Giustozzi,Mathematics
+871,David Andrew  Fine,Mathematics
+872,Jamie A.  Whiteman,Mathematics
+873,Matthew C.  Duckett,Mathematics
+874,Maureen A.  Bohan,Mathematics
+875,Michael J.  Lutian,Mechanical Engineering
+876,Christa Palancia  Esposito,Nursing
+876,Christa Palancia  Esposito,Nursing: Midwifery
+878,Christopher J.  Remediani,Operations Management
+879,Anderson   Weekes,Philosophy
+880,Daniel R.  Davenport,Philosophy
+881,Gayle A.  Alberda,Politics
+881,Gayle A.  Alberda,Public Administration
+883,Lawrence William  Fitzgerald,Psychology
+884,Patrick James  McGuigan,Psychology
+885,Eileen M.  Gonzalez,Reading and Language Development
+886,Thomas C.  Schmidt,Religious Studies
+888,Jonathan R.  Wilson,Software Engineering
+888,Jonathan R.  Wilson,Computer Science
+889,Michael L.  Rizzo,Special Education
+889,Michael L.  Rizzo,Education
+893,Marcela   Aliaga,Anthropology
+893,Marcela   Aliaga,Sociology
+893,Marcela   Aliaga,International Studies
+894,Danielle C.  Ogden,Art History
+896,Susan L.  Freudzon,Bioengineering
+896,Susan L.  Freudzon,Computer Engineering
+898,Frances A.  Calzetta,Education
+899,Donald V.  Schaer,Engineering
+900,Serena   Jourdan,English
+902,Matthew P.  Durand,Graphic Design
+904,Luisa   De Cicco,Italian
+906,Wendy A.  Christian,Marketing
+908,Bridget Ann  Dowd,Nursing
+909,Rachel C.  Victorin,Nursing
+910,Tina D.  Budd,Nursing
+911,Allison J.  Eastman,Nursing
+912,Neal A.  Lewis,Operations Management
+913,J. Brooks   Colburn,Philosophy
+915,Daniel D.  Jones,History
+915,Daniel D.  Jones,Religious Studies
+916,Michael F.  Tunney,Religious Studies
+917,Peter J.  Kootsookos,Software Engineering
+918,Vincenza Jane  McNulty,Spanish
+919,Anne F.  Kendall,Theatre
+920,Nancy L.  Varsos,Business
+921,Warren J  Lancaster,Counseling
+921,Warren J  Lancaster,Family Therapy
+922,Ralph   Valenzisi,Educational Technology
+923,Leah P.  Brown,Family Therapy
+926,Carrie   Wolf,Nursing
+927,Lee   Combrinck-Graham,Nursing
+928,Jennifer C.  Hornyak,Reading and Language Development
+928,Jennifer C.  Hornyak,Special Education
+930,Kara E.  Hunter,Accounting
+931,Jenna Marie  Allegretto,Accounting
+932,Michelle Marie  DiMarzo,Art History
+933,Xuan   Wang,Chinese
+934,Kathleen D.  Butch,Communication
+935,Anne   Iddins,Communication
+936,Pierre W.  Orelus,Education
+937,Brian D.  Adkins,Education
+938,Kevin C.  Spinale,English
+938,Kevin C.  Spinale,Philosophy
+939,Kimberly K.  Gunter,English
+940,Christian W.  Brownrigg,English
+941,David E.  Fresko,"Film, Television, and Media Arts"
+942,Steven E.  Kozlowski,Finance
+943,Rachel   Shur,Hebrew
+944,Kanlun   Wang,Information Systems
+945,Nicholas F.  Socci,Information Systems
+946,Stephen   Allegretto,Management
+947,Christopher J.  Hamer,Management
+948,Nazuk   Sharma,Marketing
+949,Anna B.  DiCenso,Mathematics
+950,Vincent Steven  Madera,Mathematics
+951,Steven R.  LeMay,Mathematics
+952,Natesha Aumuo  Bestman,Nursing
+953,Sheila A.  Crerend,Nursing
+954,Katie L.  Love,Nursing
+955,Thomas P.  Collins,Nursing
+956,Sarah E.  Sanders,Nursing
+957,Catherine G.  Micinilio,Nursing
+958,Jon A.  Krchnavy,Operations Management
+959,Lawrence B.  Sypher,Philosophy
+960,David W.  Hollingsworth,Psychology
+961,Nicole A  Wilhelm,Reading and Language Development
+962,Jonathan   Sozek,Religious Studies
+963,Matthew D.  Glassman,Religious Studies
+964,Lauren S.  Gaskill,Spanish
+965,Emily R.  Shamash,Special Education
+966,Carlos   Fernandez-Varela,Accounting
+967,Andrew M.  Davenport,Art History
+968,Muhammed A.  Odud,Biology
+969,Fei   Xie,Chinese
+970,Mary Jean E.  McNamara,Classical Studies
+970,Mary Jean E.  McNamara,English
+971,Sean Michael  Gleason,Classical Studies
+971,Sean Michael  Gleason,English
+971,Sean Michael  Gleason,Latin
+972,Jeffrey I.  Kramer,Computer Science
+973,Robin Keating  Katzman,Counseling
+974,Susan L.  Unger,Counseling
+975,Daniel J.  Sullivan,Counseling
+976,Romina A.  Pacheco,Education
+977,Terri L.  Germain-Williams,Education
+978,Vincent M.  Iezzi,Education
+979,Angela V.  Swanepoel,Education
+980,Allegra M.  Fitzgerald,Education
+981,Jeremiah R.  Mercurio,English
+982,Justin C.  Matley,"Film, Television, and Media Arts"
+982,Justin C.  Matley,Music
+983,Sunil   Gangwani,Finance
+985,Patrick W.  Kelley,Health Studies
+985,Patrick W.  Kelley,Nursing
+986,David J.  Lara,Italian
+987,Michael V.  Macina,Marketing
+988,Jose M.  Carballo Boschetti,Mechanical Engineering
+989,Bahareh   Estejab,Mechanical Engineering
+990,Andrew P  Virdin,Music
+991,Allana Marie  Brown,Nursing
+992,Sarah N.  Larkin,Nursing
+993,Ryan Patrick  Keenan,Nursing
+994,Joanna B.  Reslink,Nursing
+995,Lalit N.  Jagtiani,Operations Management
+995,Lalit N.  Jagtiani,Information Systems
+996,Kenneth F.  McCallion,Politics
+997,Kevin C.  Molloy,Religious Studies
+998,Joseph A.  DeFeo,Religious Studies
+999,Soledad   Lazkani,Spanish
+1000,David E.  Harris,Theatre
+1001,Joseph A.  Graziano,Counseling
+1001,Joseph A.  Graziano,Family Therapy
+1002,Veronica P.  Whitlock,Interior Design
+1003,Amanda   Costella,Nursing
+1004,Hilary Anne  Bartholomay,Nursing
+1005,Heather E.  Kovac,Nursing
+1006,Vanessa Adema  Daou,Nursing
+1007,Michael Peter  O'Toole,Nursing
+1008,05/21-08/17,Nursing
+1009,Jaclyn J.  Cincotta,Reading and Language Development
+1010,Janine M  Goss,Reading and Language Development
+1011,Kristen   Tharrington,Accounting
+1012,Richard   Hunter,Accounting
+1013,Charles   Gill,Accounting
+1014,Caroline   Moore,Applied Ethics
+1015,Ashley   Stoehr,Biology
+1016,Jennifer   Schindler-Ruwisch,Biology
+1018,Michael   Jaffe,Chemistry
+1019,Marta Anne   Taddeo,Chemistry
+1020,Nathan   Pilkington,Classical Studies
+1021,Maria Valentina   Aduen Ramirez,Communication
+1022,Sean   Horan,Communication
+1023,Haishuai   Wang,Computer Science
+1023,Haishuai   Wang,Software Engineering
+1024,Susan   Kibe,Economics
+1025,Patricia   Decoster,Education
+1026,Kenneth   Dunaj,Education
+1027,Kevin   Corcoran,Educational Technology
+1028,Craig   Tunks,Educational Technology
+1029,Hongmei   Li,Electrical and Computer Engineering
+1030,Matthew   Lazicky,Engineering
+1030,Matthew   Lazicky,Mechanical Engineering
+1031,Michael   Shaw,English
+1032,Nadia   Zamin,English
+1033,Joel   Beatty,English
+1034,Lindy   Briggette,English
+1035,Christopher   DiBiase,English
+1036,Tiffany   Wilgar,English
+1037,Magdala   Desgranges,English
+1038,Viktoria   Paranyuk,"Film, Television, and Media Arts"
+1039,Gavin   Guerra,"Film, Television, and Media Arts"
+1040,Noradeen   Farlekas,Finance
+1041,Richard A.  Greenwald,History
+1042,Giovanni   Braico,Italian
+1043,Ellen M.  Lee,Latin
+1043,Ellen M.  Lee,Classical Studies
+1043,Ellen M.  Lee,English
+1043,Ellen M.  Lee,Honors
+1044,Kerri A.  Anderson,Family Therapy
+1045,Patricia   Macomber,Family Therapy
+1046,Mark   Batell,Mathematics
+1047,Neha   Hooda,Mathematics
+1048,Michael   Wynne,Mathematics
+1049,Melissa A.  Roberto,Music
+1050,Karen Joyce  Corcoran,Nursing
+1051,Gina   Trovato,Nursing
+1052,Geraldine   McSherry,Nursing
+1053,Danielle Cerina  Rivera,Nursing
+1054,Diana   Kavanagh,Nursing
+1055,Mary Elizabeth  Day,Nursing
+1056,Nancy   Antell,Nursing
+1057,Daniele   Botti,Philosophy
+1058,Marcello   Kilani,Philosophy
+1059,Allison   Pineros Glasscock,Philosophy
+1060,James Abordo   Ong,Philosophy
+1061,Robert   Nazarian,Physics
+1062,Erik   Kubik,Physics
+1065,Matthew   LaClair,Psychology
+1067,Clarence   Hardy,Religious Studies
+1068,Mehmet   Cansoy,Sociology
+1069,Laura   Gasca Jimenez,Spanish
+1070,Wendy   Sobelman,Special Education
+1071,Ryan D.  McKinney,Theatre
+1072,Michael   Blagys,Theatre
+1073,Heather F.  Burrows,Theatre
+1074,Stephanie   Miller,Accounting
+1075,Rob   Hornak,Accounting
+1076,Darly   George,Biology
+1078,Mehrnaz   Kamal,Chemistry
+1079,Karla   Barguiarena,Communication
+1080,Derek   Demilio,Communication
+1081,Ayanna   Eastman,Communication
+1082,Mary Ellen   Staudt,Counseling
+1083,Vanessa   Liles,Education
+1084,Asia   Goubourn,Education
+1085,Patricia   Crisafulli,Education
+1086,Claudia   Calhoun,"Film, Television, and Media Arts"
+1087,Caitlin   Casiello,"Film, Television, and Media Arts"
+1088,Nathan   Silver,"Film, Television, and Media Arts"
+1090,Walter   Rankin,French
+1090,Walter   Rankin,German
+1090,Walter   Rankin,Italian
+1091,Jennifer C.  Slack Gans,Family Therapy
+1092,Ann Marie  Cook,Nursing
+1093,Marian Lois   Villaflor,Nursing
+1094,Clare Marie  O'Leary,Nursing
+1095,Lisa   Guardino,Nursing
+1096,Katherine   Sadighi,Nursing
+1097,Jessica   Marraffa,Nursing
+1098,John Joseph  DiGiacomo,Nursing
+1099,Patricia   Trowbridge,Portuguese
+1100,William H.  Johnson,Psychology
+1101,Christine S.  Peck,Psychology
+1102,Maureen   Ruby,Reading and Language Development
+1103,Tonya   Lee,Studio Art
+1104,Karl G.  Ruling,Theatre
+1105,Lynne   Chase,Theatre
