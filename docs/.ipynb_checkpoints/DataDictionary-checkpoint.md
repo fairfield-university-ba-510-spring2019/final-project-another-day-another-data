@@ -2,13 +2,13 @@
 
 This is our Data Dictionary according to the csv files we used to import our data and populate our database.
 
-## **INSTRUCTOR Entity**
+### **INSTRUCTOR Entity**
 
 *instructor_id* : surrogate primary key to identify instructor uniquely, because many instructors teach multiple classes
 
 *primary_instructor* : First name and last name of the instructor
 
-## **CATALOG_DESC Entity**
+### **CATALOG_DESC Entity**
 
 *catalog_desc_id* : surrogate primary key to identify catalog descriptions uniquely, because other attributes/columns of this table yield duplicates
 
@@ -34,7 +34,7 @@ This is our Data Dictionary according to the csv files we used to import our dat
 
 *credits* : credit amount attributed to the course by the University, can be between 1 and 3
 
-## **COURSE_OFFERING Entity**
+### **COURSE_OFFERING Entity**
 
 *course_offering_id* : surrogate primary key to identify course offering uniquely, because other attributes/columns of the table yield duplicates
 
@@ -66,7 +66,7 @@ This is our Data Dictionary according to the csv files we used to import our dat
 
 *catalog_desc_id* : surrogate primary key to identify catalog descriptions uniquely, because other attributes/columns of this table yield duplicates
 
-## COURSE_MEETING Entity
+### **COURSE_MEETING Entity**
 
 *meet_id* : surrogate primary key used to identify course meetings because other attributes/columns yield duplicates
 
@@ -84,3 +84,9 @@ This is our Data Dictionary according to the csv files we used to import our dat
 *term* : the term (Fall, Winter, Spring, Summer) that the course is being offered, followed by the year
 
 *course_offering_id* : surrogate primary key to identify course offering uniquely, because other attributes/columns of the table yield duplicates
+
+**Unique DataWarehouse Attributes** : 
+
+*classes_taught* : Aggregate count of classes taught by an instructor in a given school year; Summer, Fall, Spring.
+
+*distinct_preps* : Aggregate count of number of preps (Distinct classes) taught by instructors
