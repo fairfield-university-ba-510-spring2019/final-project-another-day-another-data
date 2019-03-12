@@ -6,13 +6,13 @@
     
    For  our Database ERD we decided to go with 4 entities/tables. For the Database these entities were "INSTRUCTOR", "CATALOG_DESC", "COURSE_OFFERING", and "COURSE_MEETING".
    
-![CourseDataDB_ERD](CourseDataDB_ERD.png)
+![CourseDataDB_ERD](docs/CourseDataDB_ERD.png)
 
 **2. Creating the Data Dictionary**
     
    We went through each of our attributes within the Database ERD and studied the data in the various csv's to understand exactly what we were working with. We then defined the attributes so that anyone with access to the Data Dictionary would be able to understand and use the database themselves.
    
-   Link to [Data Dictionary](DataDictionary.md)
+   Link to [Data Dictionary](docs/DataDictionary.md)
 
 **3. Creating the Database and Creating/Populating the Tables**
 
@@ -23,11 +23,11 @@
      
    We then ran INSERT INTO SQL queries to populate our database tables by selecting data from the import tables to fill our database. We had to use JOIN's to make sure that the tables would link and often used SELECT DISTINCT's to make sure we didn't overpopulate and make the database too big.
    
-   [CourseDataETL](CourseDataEtl.ipynb)
+   [CourseDataETL](docs/CourseDataETL.ipynb)
       
 **4. CourseData Testing and Demo**
 
-[CourseData Testing](CourseDataTest.ipynb)
+[CourseData Testing](docs/CourseDataTests.ipynb)
 
 **5. Running SQL Queries and Testing Integrity**
 
@@ -40,7 +40,8 @@
 **6. Data Warehouse ERD**
    
    For the Data Warehouse, we went with 4 entities as well: "DW_COURSE_OFFERING", "DW_INSTRUCTOR", "DW_COURSES", and "DW_ CATALOG_DESC".
-    ![CourseDataDW_ERD](./CourseDataDW_ERD.png)
+    ![CourseDataDW_ERD](./docs/CourseDataDW_ERD.png)
+    
 **7. Github Issues**
 
    We had some trouble with JOIN's and ended up accidentally querying 70,000,000 rows of data from our database somehow. This made our repo size way too big and made it impossible for us to push, even after using the vacuum; method to shrink it. We had to get help from Dr. Tao and Yue Pu in order to resolve our issue. 
@@ -55,13 +56,11 @@
    
    Next we looked at the number of classes taught in the same given year, to compare to the number of preps. A prep is the planning that goes into teaching a unique class, but classes taught could be the same class taught across multiple sections, which would be more classes taught but only one prep created. This allows us to see who is really overworked versus who is simply teaching the most classes.
   
-   [CourseDataWarehouseETL](CourseDataWarehouse.ipynb)
+   [CourseDataWarehouseETL](docs/CourseDataWarehouse.ipynb)
 
   
 **11. Testing and Demo on the Data Warehouse**
 
-[CourseDataWarehouse Testing](CourseDataWarehouseTest.ipynb)
+[CourseDataWarehouse Testing](docs/CourseDataWarehouseTest.ipynb)
 
-[CourseDataWarehouse Demo](CourseDataWarehouseDemo.ipynb)
-
-**12. Conclusions/Takeaways**
+[CourseDataWarehouse Demo](docs/CourseDataWarehouseDemo.ipynb)
